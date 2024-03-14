@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./component/Navbar";
-import Hero from "./component/hero";
+import Hero from "./component/Hero";
 import Analytics from "./component/Analytics";
 import Newletter from "./component/Newletter";
 import Card from "./component/Card";
